@@ -32,9 +32,9 @@ var friends =
       ]
   },
   {
-    "name":"Rocky",
-    "photo":"https://topdogtips.com/wp-content/uploads/2017/05/best-teacup-dog-breeds-7.jpg",
-    "scores":[
+    name:"Rocky",
+    photo:"https://topdogtips.com/wp-content/uploads/2017/05/best-teacup-dog-breeds-7.jpg",
+    scores:[
         5,
         4,
         5,
@@ -48,9 +48,9 @@ var friends =
       ]
   },
   {
-    "name":"Bella",
-    "photo":"http://cdn1-www.dogtime.com/assets/uploads/gallery/newfoundland-dogs-and-puppies/newfoundland-dogs-puppies-2.jpg",
-    "scores":[
+    name:"Bella",
+    photo:"http://cdn1-www.dogtime.com/assets/uploads/gallery/newfoundland-dogs-and-puppies/newfoundland-dogs-puppies-2.jpg",
+    scores:[
         5,
         4,
         3,
